@@ -1,21 +1,8 @@
 
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ã•ûÿÿÿÿ8ÛÖÈ¿‰/
-W
-java:S1068"5Remove this unused "horasEstimadasDef" private field.(í˜®’ùÿÿÿÿ8ß†½Â‰/
-g
-java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(¶×­Ãüÿÿÿÿ8ÛÖÈ¿‰/
+]	java:S125e"<This block of commented-out lines of code should be removed.(¼ô—ªşÿÿÿÿ8ª´ïù‰/
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øîå¤
-b
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ëôµ8ÛÖÈ¿‰/
-g
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(£ã•ûÿÿÿÿ8ÛÖÈ¿‰/
-C
-java:S1170"!Make this final field static too.(í˜®’ùÿÿÿÿ8Ó½¼¥‰/
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ëôµ8ÛÖÈ¿‰/
 ^
-java:S1126b"AReplace this if-then-else statement by a single return statement.(ñ¾›ì8¥í»¦‰/
->
-java:S1170"!Make this final field static too.(½‘è¦8ß…½¥‰/
-]	java:S125t"<This block of commented-out lines of code should be removed.(¼ô—ªşÿÿÿÿ8ÀÒ¿‰/
-X	java:S125o"<This block of commented-out lines of code should be removed.(úåÏ8ÀÒ¿‰/
-{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¶×­Ãüÿÿÿÿ8ÛÖÈ¿‰/
+java:S1126W"AReplace this if-then-else statement by a single return statement.(ñ¾›ì8¥í»¦‰/
+X	java:S125b"<This block of commented-out lines of code should be removed.(úåÏ8ª´ïù‰/
+H
+java:S1172"&Remove these unused method parameters.(“ü¸µÿÿÿÿÿ8á‘ˆû‰/

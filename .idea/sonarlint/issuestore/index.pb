@@ -51,3 +51,8 @@ v
 Fsrc/co/com/adrianafranklin/Ejercicio18/ClaseEjecutableEjercicio18.java,5\5\55b524ced2e668b34a6c348c0deb8c610daa49e4
 v
 Fsrc/co/com/adrianafranklin/Ejercicio16/ClaseEjecutableEjercicio16.java,2\3\23a1c749a6f1c68fff1f2b05aaff51376ce98b1c
+f
+6src/co/com/adrianafranklin/Ejercicio18/Constantes.java,d\c\dcdd028de04a531cfdbed472a5d007d3a8ac72e0
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
