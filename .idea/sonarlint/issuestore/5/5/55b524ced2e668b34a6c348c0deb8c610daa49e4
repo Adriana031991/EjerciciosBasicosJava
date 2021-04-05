@@ -1,0 +1,18 @@
+
+L
+java:S1481	"/Remove this unused "videoJuego" local variable.(½ÇàÃ8µ­Ùª‰/
+L
+java:S1481"*Remove this unused "serie" local variable.(©ŞıÌûÿÿÿÿ8òõåë‰/
+[
+java:S1854"9Remove this useless assignment to local variable "serie".(©ŞıÌûÿÿÿÿ8òõåë‰/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(°¯°èıÿÿÿÿ8Ñ’¨‰/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ëã·Æ8õ÷üª‰/
+U
+java:S1197"8Move the array designator from the variable to the type.(ÔÅ§Ã8Ç×ûÂ‰/
+U
+java:S1197"8Move the array designator from the variable to the type.(ï¿Ïí8ÂÛå¦‰/
+[
+java:S1854	">Remove this useless assignment to local variable "videoJuego".(½ÇàÃ8µ­Ùª‰/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øîå¤
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(óÌ…ÿÿÿÿÿ8•Û“Æ‰/
+]	java:S125,"<This block of commented-out lines of code should be removed.(¤ÔÏìıÿÿÿÿ8Öşêë‰/

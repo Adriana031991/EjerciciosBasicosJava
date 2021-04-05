@@ -1,0 +1,15 @@
+
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(á² ®8ï™Å ‰/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÃÅ8ƒµÊ ‰/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿô®‹8ƒµÊ ‰/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Õ¸…¢üÿÿÿÿ8¡Ä ‰/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(”×Üûÿÿÿÿ8‰ˆ ‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùåÉÅıÿÿÿÿ8ƒµÊ ‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ¢«ıÿÿÿÿ8› Ÿ‰/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(‘²Š…8‰ˆ ‰/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8âüõœ‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»Ìş‡ÿÿÿÿÿ8› Ÿ‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï‘Äùúÿÿÿÿ8óêÇ ‰/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃşÕëøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€¤ÓÒşÿÿÿÿ8áßœ‰/

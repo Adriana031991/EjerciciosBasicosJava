@@ -1,0 +1,27 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¸òÜ
+…
+java:S4165Z"cRemove this useless assignment; "color" already holds the assigned value along all execution paths.(šéùıÿÿÿÿ8ã«„¥‰/
+
+java:S2159F"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(šïÛĞ8¤Å‘£‰/
+>	java:S131e""Add a default case to this switch.(¡ùÉà8­šƒ£‰/
+a
+java:S2583F"DChange this condition so that it does not always evaluate to "false"(šïÛĞ8¤Å‘£‰/
+>
+java:S1170"!Make this final field static too.(²ÜÉâ8•ğõ¤‰/
+C
+java:S1170"!Make this final field static too.(µ·£›ıÿÿÿÿ8•ğõ¤‰/
+U
+java:S1197D"8Move the array designator from the variable to the type.(¾ÿƒœ8¤Å‘£‰/
+H
+java:S1172'"&Remove these unused method parameters.(î¿Üøÿÿÿÿ8óœÿ¤‰/
+Œ
+java:S4165I"oRemove this useless assignment; "consumoEnergetico" already holds the assigned value along all execution paths.(¨­úã8‚Øú¤‰/
+U
+java:S1197Q"8Move the array designator from the variable to the type.(ÔÎ ı8Â™€¢‰/
+>
+java:S1170"!Make this final field static too.(Ñ×’ƒ8•ğõ¤‰/
+b
+java:S1764F"ECorrect one of the identical sub-expressions on both sides of equals.(šïÛĞ8¤Å‘£‰/
+>
+java:S1170"!Make this final field static too.(ûÔ¥š8•ğõ¤‰/

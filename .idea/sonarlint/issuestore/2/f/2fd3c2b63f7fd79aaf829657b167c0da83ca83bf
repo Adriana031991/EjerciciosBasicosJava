@@ -1,0 +1,23 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øîå¤
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ä‘¥ì8ûÉ™«‰/
+^
+java:S1126`"AReplace this if-then-else statement by a single return statement.(ñ¾›ì8Ä‹·¦‰/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‡ä“™8¥Å—«‰/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜„áå8ûÉ™«‰/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡ä“™8ûÉ™«‰/
+>
+java:S1170	"!Make this final field static too.(½‘è¦8Å»—¥‰/
+]	java:S125x"<This block of commented-out lines of code should be removed.(æ¢åËúÿÿÿÿ8æˆ‰Æ‰/
+C
+java:S1170"!Make this final field static too.(Ã´˜þÿÿÿÿ8´ü•¥‰/
+X	java:S125j"<This block of commented-out lines of code should be removed.(ÞÁïæ8æˆ‰Æ‰/
+b
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(ä‘¥ì8¥Ú–«‰/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜„áå8ø—«‰/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ó¨òë‰/

@@ -1,0 +1,5 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëè¿öüÿÿÿÿ8¥êìøˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ™ˆÆüÿÿÿÿ8ÿßøˆ/
+e
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ƒ¾õä8ÿßøˆ/

@@ -1,0 +1,10 @@
+
+J
+java:S1121+".Extract the assignment out of this expression.(ÅÓf8Û“Ñ£‰/
+S
+java:S2589+"7Remove this expression which always evaluates to "true"(ÅÓf8Û“Ñ£‰/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¸òÜ
+H
+java:S1172"&Remove these unused method parameters.(íøğöûÿÿÿÿ8ñ¨ÔÅ‰/
+H
+java:S1172"&Remove these unused method parameters.(íª…¿úÿÿÿÿ8áÖÅ‰/

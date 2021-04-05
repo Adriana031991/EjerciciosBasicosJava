@@ -1,0 +1,15 @@
+
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¶ÜÿŸ‰/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃşÕëøÿÿÿÿ
+r	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¹Ò·ùÿÿÿÿ8Á³´Å‰/
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¢œƒØ8òë ‰/
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(Àƒ¶”8¸³ù ‰/
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(«†òüÿÿÿÿ8ğ³Å‰/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(‰¾‘¨8è»ì ‰/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(°¸³8±Ôë ‰/
+
+java:S11926"dDefine a constant instead of duplicating this literal " Tu indice de masa corporal es de: " 3 times.(¢œƒØ8¬Œ¡‰/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÜåÀŸ‰/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8îÜ˜‰/
+o	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšıÿÿÿÿ8š›ã—‰/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(¾ÅÔ¥ÿÿÿÿÿ8¸³ù ‰/

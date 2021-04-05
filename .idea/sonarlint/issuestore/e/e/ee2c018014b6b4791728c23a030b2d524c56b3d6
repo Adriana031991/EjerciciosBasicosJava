@@ -1,0 +1,16 @@
+
+m	java:S1280"LEnd this switch case with an unconditional break, return or throw statement.(àçÙºÿÿÿÿÿ8¾ÙÎüˆ/
+>	java:S131/""Add a default case to this switch.(‹Œô—8¾ÙÎüˆ/
+C
+java:S2153-"!Remove the boxing to "Character".(¦Äôøÿÿÿÿ8¾ÙÎüˆ/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(À‘Æ¶úÿÿÿÿ8ï’Óüˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â£Ä´øÿÿÿÿ8¯üˆ/
+S
+java:S1874-"1Remove this use of "Character"; it is deprecated.(¦Äôøÿÿÿÿ8¾ÙÎüˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•¯ëŞ8¯üˆ/
+m	java:S1284"LEnd this switch case with an unconditional break, return or throw statement.(ÀÅ£™úÿÿÿÿ8¾ÙÎüˆ/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(òÂª®ûÿÿÿÿ8‹ŒÕüˆ/
+m	java:S1282"LEnd this switch case with an unconditional break, return or throw statement.(†–ÈÒşÿÿÿÿ8¾ÙÎüˆ/
+h	java:S1286"LEnd this switch case with an unconditional break, return or throw statement.(ÀÂÌÄ8¾ÙÎüˆ/
+E
+java:S2129-"#Remove this "Character" constructor(¦Äôøÿÿÿÿ8¾ÙÎüˆ/
